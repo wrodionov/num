@@ -5,3 +5,4 @@ while num != 0:
         max_num = num
     num = int(input("Введите число: "))
 print("Максимальное число: ", max_num)
+input()
